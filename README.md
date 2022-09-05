@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TommyClemenzaChen
-- 👀 I’m interested in machine learning and algorithims
+- 👀 I’m interested in barons
 - 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking to collaborate on sweepiong mines
 - 📫 How to reach me, idk
