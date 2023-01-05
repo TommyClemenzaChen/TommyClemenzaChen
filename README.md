@@ -2,7 +2,7 @@
 - 👀 I’m interested in barons
 - 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking to collaborate on sweepiong mines
-- 📫 How to reach me, idk
+- 📫 How to reach me: tchen175@ucsc.edu
 
 <!---
 TommyClemenzaChen/TommyClemenzaChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
