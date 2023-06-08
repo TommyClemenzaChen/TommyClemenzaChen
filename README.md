@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TommyClemenzaChen
-- 👀 I’m interested in barons
-- 🌱 I’m currently learning algorithms and data structures
-- 💞️ I’m looking to collaborate on sweepiong mines
+- 👀 I’m interested in machine learning
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: tchen175@ucsc.edu
 
 <!---
