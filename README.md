@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TommyClemenzaChen
+- 👋 Hi, I’m Tommy Chen. 
 - 👀 I’m interested in machine learning
-- 💞️ I’m looking to collaborate
+- 💞️ I enjoy working on projects as long as there aren't any bugs that keep me up all the way till 6 am
 - 📫 How to reach me: tchen175@ucsc.edu
 - I like to play bowling and swim
 
