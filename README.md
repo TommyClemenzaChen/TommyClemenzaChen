@@ -24,7 +24,7 @@ Welcome to my github, I am a 3rd-year computer science major at UCSC with a plan
 
 <h2>Insert title here(fix later)</h2>
 
-[![Tommy Chen's stats](https://github-readme-stats.vercel.app/api?username=TommyClemenzaChen)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy Chen's stats](https://github-readme-stats.vercel.app/api?username=TommyClemenzaChen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
