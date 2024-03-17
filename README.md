@@ -1,13 +1,11 @@
 # <img src = "https://github.com/TommyClemenzaChen/TommyClemenzaChen/assets/112852021/2b82155f-f760-4fa6-b625-81727e084353" alt = "penguin" width = 75 height = 75> Hi I am Tommy 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tommy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomchen175)
-
 [![Linkedin Badge](https://img.shields.io/badge/-Tommy_Chen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomchen175)](https://www.linkedin.com/in/tomchen175)
 [![Gmail Badge](https://img.shields.io/badge/-tchen175@ucsc.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tchen175@ucsc.edu)](mailto:tchen175@ucsc.edu)
 
 **Looking for summer 2024 software engineering internship :)**
 
-Welcome to my github, I am a 3rd-year computer science major at UCSC with a planned graduation date of June 2025. I enjoy developing machine learning and full-stack projects. Thanks for visting and I'd love to [connect](www.linkedin.com/in/tomchen175) with you! 
+Welcome to my github, I am a 3rd-year computer science major at UCSC with a planned graduation date of June 2025. I enjoy developing machine learning and full-stack projects. Thanks for visting and I'd love to [connect](https://www.linkedin.com/in/tomchen175) with you! 
 
 
 <p align = "center">
