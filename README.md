@@ -16,7 +16,8 @@ Welcome to my github, I am a 3rd-year computer science major at UCSC with a plan
   <img alt = "Python" src = "https://img.shields.io/badge/-Python-0A18F5?style=flat-square&logo=python"/>
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-FF9300?style=flat-square&logo=pytorch" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-1DD4E0?style=flat-square&logo=postgresql">
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-1DD4E0?style=flat-square&logo=javascript">
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-FF9300?style=flat-square&logo=javascript">
+  <img alt="C++" src="https://img.shields.io/badge/-c++-0A18F5?style=flat-square&logo=c%2B%2B">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45c1d8?style=flat-square&logo=flask">
   <img alt="git" src="https://img.shields.io/badge/-Git-0E0903?style=flat-square&logo=git&logoColor=white" />
