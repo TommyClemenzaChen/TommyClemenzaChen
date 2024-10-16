@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tommy_Chen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomchen175)](https://www.linkedin.com/in/tomchen175)
 [![Gmail Badge](https://img.shields.io/badge/-tchen175@ucsc.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tchen175@ucsc.edu)](mailto:tchen175@ucsc.edu)
 
-**Looking for summer 2024 software engineering internship :)**
+**Looking for summer 2025 software engineering internship :)**
 
-Welcome to my github, I am a 3rd-year computer science major at UCSC with a planned graduation date of June 2025. I enjoy developing machine learning and full-stack projects. Thanks for visting and I'd love to [connect](https://www.linkedin.com/in/tomchen175) with you! 
+Welcome to my github, I am a 4th-year computer science major at UCSC with a planned graduation date of June 2025. Planning to do masters after. I enjoy developing machine learning and full stack projects. Thanks for visting and I'd love to [connect](https://www.linkedin.com/in/tomchen175) with you! 
 
 
 <p align = "center">
@@ -20,6 +20,8 @@ Welcome to my github, I am a 3rd-year computer science major at UCSC with a plan
   <img alt="C++" src="https://img.shields.io/badge/-c++-0A18F5?style=flat-square&logo=c%2B%2B">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-F5c1d8?style=flat-square&logo=flask">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-42c1d8?style=flat-square&logo=docker">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-fastapi-90EE90?style=flat-square&logo=fastapi">
   <img alt="git" src="https://img.shields.io/badge/-Git-0E0903?style=flat-square&logo=git&logoColor=white" />
   
 </p>
