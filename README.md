@@ -5,7 +5,7 @@
 
 **Looking for summer 2025 software engineering internship :)**
 
-Welcome to my github, I am a 4th-year computer science major at UCSC with a planned graduation date of June 2025. Planning to do masters after. I enjoy developing machine learning and full stack projects. Thanks for visting and I'd love to [connect](https://www.linkedin.com/in/tomchen175) with you! 
+Welcome to my github, I am a 4th-year computer science major at UCSC with a planned graduation date of June 2025. I enjoy developing machine learning and full stack projects. Thanks for visting and I'd love to [connect](https://www.linkedin.com/in/tomchen175) with you! 
 
 
 <p align = "center">
